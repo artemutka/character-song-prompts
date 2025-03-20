@@ -1,5 +1,2 @@
-theme: jekyll-theme-cayman
 title: Промпты для создания песен о персонажах
-description: Универсальные промпты для создания эпичных песен-гимнов о персонажах
-show_downloads: true
-google_analytics:
+description: Интерактивный редактор промптов для создания эпичных песен о персонажах
