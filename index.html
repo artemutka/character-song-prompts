@@ -491,8 +491,8 @@
 
         // Функция для замены плейсхолдера имени
         function replaceCharacterName(prompt) {
-            return prompt.replace(/\\[ИМЯ\\]/g, characterName);
-        }
+    return prompt.replace(/\[ИМЯ\]/g, characterName);
+}
 
         // Обработчик изменения имени персонажа
         characterNameInput.addEventListener('input', function() {
