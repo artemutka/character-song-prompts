@@ -25,7 +25,8 @@ const prompts = {
     verses: document.getElementById('versesPrompt').textContent,
     chorus: document.getElementById('chorusPrompt').textContent,
     bridge: document.getElementById('bridgePrompt').textContent,
-    final: document.getElementById('finalPrompt').textContent
+    final: document.getElementById('finalPrompt').textContent,
+    testing: document.getElementById('testingPrompt').textContent
 };
 
   // Функция для замены плейсхолдера имени
